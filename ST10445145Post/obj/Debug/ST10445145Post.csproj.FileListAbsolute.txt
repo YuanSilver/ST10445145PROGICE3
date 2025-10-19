@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ST10445145Post\ST10445145Post\bin\Debug\ST10445145Post.exe.config
+C:\Users\User\source\repos\ST10445145Post\ST10445145Post\bin\Debug\ST10445145Post.exe
+C:\Users\User\source\repos\ST10445145Post\ST10445145Post\bin\Debug\ST10445145Post.pdb
+C:\Users\User\source\repos\ST10445145Post\ST10445145Post\obj\Debug\ST10445145Post.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ST10445145Post\ST10445145Post\obj\Debug\ST10445145Post.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ST10445145Post\ST10445145Post\obj\Debug\ST10445145Post.exe
+C:\Users\User\source\repos\ST10445145Post\ST10445145Post\obj\Debug\ST10445145Post.pdb
